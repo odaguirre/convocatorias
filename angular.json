@@ -74,6 +74,10 @@
               "browserTarget": "convocatorias:build:development"
             }
           },
+          "options": {
+            "browserTarget": "convocatorias:build:development",
+            "proxyConfig": "proxy.conf.json"
+          },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
